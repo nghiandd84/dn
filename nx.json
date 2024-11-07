@@ -46,5 +46,8 @@
     "version": {
       "preVersionCommand": "npx nx run-many -t build"
     }
+  },
+  "sync": {
+    "applyChanges": true
   }
 }
